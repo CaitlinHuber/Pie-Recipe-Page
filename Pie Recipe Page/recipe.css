@@ -1,0 +1,43 @@
+/*Caitlin Huber
+FolderId: Caitlin115 */
+
+h1, h2{
+	background-color: #F0F0F0;
+	color: #A4A400;
+	font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 22pt;
+	text-align: center;
+}
+
+h2{
+	display: inline;
+	font-size: 18pt;
+}
+
+body{
+	background-image: url(silverware.jpg);
+	color: #404040;
+	font-family: georgia, garamond, serif;
+	font-size: 11pt;
+}
+
+blockquote{
+	background: #FFFFA8;
+	font-style: italic;
+}
+
+a {
+	color: #A4A400;
+}
+
+pre {
+	font-family: "courier new", monospace;
+}
+
+ul {
+	list-style-image: url('pie_icon.gif');
+}
